@@ -1,0 +1,3 @@
+cd instainsane
+chmod +x instainsane.sh
+./instainsane
